@@ -151,5 +151,5 @@ The server will be accessible at http://localhost:5000/. You can modify the host
 - Add sound effects and music to make the game more engaging.
 
 
-
-
+## Deployment Link
+http://game-dot-careful-ensign-377008.oa.r.appspot.com/2048
